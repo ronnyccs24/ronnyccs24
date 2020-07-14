@@ -1,4 +1,4 @@
-### Hola Hola 👋
+### 👈🏻 Hola, este soy yo!
 
 Teleco convertido a Data Analyst.
 
