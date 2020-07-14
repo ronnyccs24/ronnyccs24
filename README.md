@@ -1,6 +1,6 @@
 ### 👈🏻 Hola, este soy yo!
 
-Teleco convertido a Data Analyst.
+También soy 👉🏻 un Teleco convertido a Data Analyst 🤘🏻🤙🏻
 
 
 - 🧑🏻‍💻 Currently working on @Aplazame formerly at @Cabify and @Vizzuality
