@@ -3,9 +3,9 @@
 Teleco convertido a Data Analyst.
 
 
-- 🔭 Currently working on @Aplazame formerly at @Cabify and @Vizzuality
-- 🌱 Always learning about Data world
-- 👯 Fala-se português, también español and english too.
+- 🧑🏻‍💻 Currently working on @Aplazame formerly at @Cabify and @Vizzuality
+- 🤓 Always learning about Data world
+- 🌍 Fala-se português, también español and english too.
 
 
 ### Contacto 📫
