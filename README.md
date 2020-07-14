@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola Hola 👋
+
+Teleco convertido a Data Analyst.
 
 <!--
 **ronnyccs24/ronnyccs24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on @Aplazame formerly at @Cabify and @Vizzuality
+- 🌱 Always learning about Data world
+- 👯 Fala-se português, también español and english too.
+
+
+### Contacto 📫
+ronnydeabreu@gmail.com
+https://www.linkedin.com/in/ronny-de-abreu/
