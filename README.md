@@ -9,8 +9,8 @@ Teleco convertido a Data Analyst.
 
 
 ### Contacto 📫
-ronnydeabreu@gmail.com
-https://www.linkedin.com/in/ronny-de-abreu/
+- ronnydeabreu@gmail.com
+- https://www.linkedin.com/in/ronny-de-abreu/
 
 
 <!--
