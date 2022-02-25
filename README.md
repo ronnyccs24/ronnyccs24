@@ -1,9 +1,9 @@
-### 👈🏻 Hola, este soy yo!
+### 👈🏻Hola, este soy yo!
 
-También soy 👉🏻 un Teleco convertido a Data Analyst 🤘🏻🤙🏻
+También soy 👉🏻un Teleco convertido a Data Analyst 🤘🏻🤙🏻
 
 
-- 🧑🏻‍💻 Currently working on @Aplazame formerly at @Cabify and @Vizzuality
+- 💻 Currently working in @jobandtalent formerly @Cabify, @Vizzuality and @Aplazame
 - 🤓 Always learning about Data world
 - 🌍 Fala-se português, también español and english too.
 
