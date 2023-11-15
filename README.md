@@ -3,7 +3,7 @@
 También soy 👉🏻un Teleco convertido a Data Analyst 🤘🏻🤙🏻
 
 
-- 💻 Currently working in @jobandtalent formerly @Cabify, @Vizzuality and @Aplazame
+- 💻 Currently working in @Schneider Electric formerly @Cabify, @Vizzuality, @Aplazame & @jobandtalent
 - 🤓 Always learning about Data world
 - 🌍 Fala-se português, también español and english too.
 
